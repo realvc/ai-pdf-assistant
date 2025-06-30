@@ -31,9 +31,7 @@ Because I got tired of losing hours manually hunting for information in research
 Because I believe research should be fast, beautiful, and AI-augmented.  
 Because no one else will build it the way I need it.
 
-This isn’t just a project — it’s a return.  
-A declaration that I’m back in motion.  
-This README was rewritten on the night I chose to rise again.
+
 
 ---
 
@@ -52,7 +50,7 @@ Instructions will be added once MVP is stable and containerized.
 ---
 
 ## 🙌 Contributions
-This is a personal comeback build. Not open to PRs yet — but reach out if you’d like to collaborate.
+This is a personal build. Not open to PRs yet — but reach out if you’d like to collaborate.
 
 ---
 
